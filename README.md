@@ -14,3 +14,18 @@ It uses the following git repositories as dependencies:
 The training data can be downloaded using: 
 
 - [RobotCarDataset-Scraper](https://github.com/mttgdd/RobotCarDataset-Scraper)
+
+
+#### [Models](https://www.dropbox.com/sh/kvwqajyl49ax290/AABuDQ7NETKw7OF37jsrJXVxa?dl=0) used in the paper
+| Name | Model |
+|-|-|
+| Off-the-shelf | offtheshelf |
+| Triplet trained on Pittsburgh | pittsnetvlad |
+| Triplet | triplet_xy_000 |
+| Quadruplet | quadruplet_xy_000 |
+| Lazy triplet | ha0_lolazy_triplet_muTrue_renone_vl64_pca_eccv_002 |
+| Lazy quadruplet | ha0_lolazy_quadruplet_muTrue_renone_vl64_pca_eccv_002 |
+| Trip.~+ Huber dist.  | huber_distance_triplet_xy_000 |
+| Log-ratio | ha0_lologratio_ma15_mi15_muTrue_renone_tu1_vl64_pca_eccv_002 |
+| Multi-similarity | ha0_loms_loss_msTrue_muTrue_renone_tu1_vl64_pca_eccv_001 |
+| Ours | al0.8_be15_ha0_lowms_ma15_mi15_msTrue_muTrue_renone_tu1_vl64_pca_eccv_000 |
