@@ -1,5 +1,5 @@
 # Soft Contrastive Learning for Visual Localization
-This repository contains the code for our NeurIPS 2020 publication *Soft Contrastive Learning for Visual Localization*.
+This repository contains the code for our NeurIPS 2020 publication [*Soft Contrastive Learning for Visual Localization*](https://www.dropbox.com/s/0pi6kdzpyj6152n/localization_Neurips20_preprint.pdf?dl=0).
 
 The corresponding models, training/testing image lists and a movie with visual results can be downloaded [here](https://www.dropbox.com/sh/kvwqajyl49ax290/AABuDQ7NETKw7OF37jsrJXVxa?dl=0).
 
